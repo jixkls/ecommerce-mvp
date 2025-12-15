@@ -39,3 +39,7 @@ prisma/*.db-journal
 
 # Docker
 .docker/
+
+
+#toDo-List
+toDo.md
