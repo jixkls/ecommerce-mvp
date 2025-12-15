@@ -1,0 +1,41 @@
+
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Next.js
+.next/
+out/
+dist/
+.vercel/
+
+# Build outputs
+build/
+coverage/
+
+# Logs
+logs/
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Database / Prisma (future-proof)
+prisma/dev.db
+prisma/*.db
+prisma/*.db-journal
+
+# Docker
+.docker/
